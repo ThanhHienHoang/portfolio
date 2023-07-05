@@ -114,7 +114,7 @@
 .page-home .badge {
   padding: 16px 24px;
   background-color: rgba(239, 56, 36, 0.15);
-  color: #EF3724;
+  color: #fd7e14;
   text-shadow: 0 2px 4px rgba(23, 25, 37, 0.4);
   font-size: 16px;
   border-radius: 40px;
@@ -401,7 +401,7 @@
 
 .post-grid .post-category {
   font-weight: 500;
-  color: #EF3724;
+  color: #fd7e14;
   text-decoration: none;
 }
 
@@ -498,27 +498,27 @@
 /* Theme Red */
 .theme-red .badge-subhead {
   background-color: rgba(239, 56, 36, 0.15);
-  color: #EF3724;
+  color: #fd7e14;
 }
 
 .theme-red .filterable-button .btn.selected,
 .theme-red .filterable-button .btn:focus {
-  background-color: #EF3724;
+  background-color: #fd7e14;
   color: #fff;
-  box-shadow: 0 0 0 2px #fff, 0 0 0 4px #EF3724;
+  box-shadow: 0 0 0 2px #fff, 0 0 0 4px #fd7e14;
 }
 
 .theme-red .page-about .img-place::before {
-  border-color: #EF3724;
+  border-color: #fd7e14;
 }
 
 .theme-red .timeline li:first-child .title {
-  background-color: #EF3724;
+  background-color: #fd7e14;
 }
 
 .theme-red .timeline li:first-child::before {
-  background-color: #EF3724;
-  box-shadow: 0 0 0 2px #EF3724;
+  background-color: #fd7e14;
+  box-shadow: 0 0 0 2px #fd7e14;
 }
 
 /* Theme Blue */
@@ -594,36 +594,36 @@
 /* Theme Orange */
 .theme-orange .badge-subhead  {
   background-color: rgba(253, 125, 20, 0.15);
-  color: #fd7e14;
+  color: #ef3724;
 }
 
 .theme-orange .filterable-button .btn.selected,
 .theme-orange .filterable-button .btn:focus {
-  background-color: #fd7e14;
+  background-color: #ef3724;
   color: #fff;
-  box-shadow: 0 0 0 2px #fff, 0 0 0 4px #fd7e14;
+  box-shadow: 0 0 0 2px #fff, 0 0 0 4px #ef3724;
 }
 
 .theme-orange .page-home .badge {
   background-color: rgba(253, 125, 20, 0.15);
-  color: #fd7e14;
+  color: #ef3724;
 }
 
 .theme-orange .page-about .img-place::before {
-  border-color: #fd7e14;
+  border-color: #ef3724;
 }
 
 .theme-orange .timeline li:first-child .title {
-  background-color: #fd7e14;
+  background-color: #ef3724;
 }
 
 .theme-orange .timeline li:first-child::before {
-  background-color: #fd7e14;
-  box-shadow: 0 0 0 2px #fd7e14;
+  background-color: #ef3724;
+  box-shadow: 0 0 0 2px #ef3724;
 }
 
 .theme-orange .post-grid .post-category {
-  color: #fd7e14;
+  color: #ef3724;
 }
 
 /* Theme Purple */
